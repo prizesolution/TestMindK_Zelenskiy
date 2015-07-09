@@ -1,0 +1,95 @@
+.table-students {
+padding-top: 30px;
+margin: 0 auto;
+}
+
+.table-students-id {
+float:left;
+border: 1px solid black;
+padding-top: 10px;
+padding-bottom:10px;
+text-align: center;
+width: 60px;
+}
+.table-students-name {
+float:left;
+border: 1px solid black;
+padding-top: 10px;
+padding-bottom:10px;
+text-align: center;
+width: 200px;
+}
+.table-students-surname {
+float:left;
+border: 1px solid black;
+padding-top: 10px;
+padding-bottom:10px;
+text-align: center;
+width: 220px;
+}
+.table-students-age {
+float:left;
+border: 1px solid black;
+padding-top: 10px;
+padding-bottom:10px;
+text-align: center;
+width: 80px;
+}
+.table-students-gender {
+float:left;
+border: 1px solid black;
+padding-top: 10px;
+padding-bottom:10px;
+text-align: center;
+width:120px;
+}
+.table-students-group {
+float:left;
+border: 1px solid black;
+padding-top: 10px;
+padding-bottom:10px;
+text-align: center;
+width: 120px;
+}
+.table-students-department {
+float:left;
+border: 1px solid black;
+padding-top: 10px;
+padding-bottom:10px;
+text-align: center;
+width: 200px;
+}
+.table-students-delete {
+float:left;
+border: 1px solid black;
+padding-top: 10px;
+padding-bottom:10px;
+text-align: center;
+width: 250px;
+}
+.table-students-next {
+clear:both;
+}
+
+.add_student {
+color: red;
+margin-left: 70px;
+margin-top: 30px;
+width: 100%;
+text-align: center;
+}
+
+.add_student_1 {
+color: red;
+
+}
+
+.links-students-update {
+color: gray;
+margin-right: 15px;
+}
+
+.links-students-delete {
+color: red;
+margin-left: 15px;
+}
